@@ -27,7 +27,7 @@ array.concat(string)
 end
 
 def using_insert (array, item)
-item.insert(4, 99)
+array.insert(4, item)
 end
 
 def using_uniq (array)
