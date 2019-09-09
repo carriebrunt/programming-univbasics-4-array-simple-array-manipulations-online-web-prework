@@ -27,7 +27,6 @@ array.concat(string)
 end
 
 def using_insert (array, item)
-array.insert
 item.insert(4)
 end
 
