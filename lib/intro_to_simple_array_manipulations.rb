@@ -26,9 +26,9 @@ def using_concat (array, string)
 array.concat(string)
 end
 
-def using_insert (array, array_2)
+def using_insert (array, item)
 array.insert
-array_2.insert(4)
+item.insert(4)
 end
 
 def using_uniq (array)
